@@ -1,4 +1,4 @@
-#Weather-Api-using-React
+<b>Weather-Api-using-React</b>
 ![screencapture-localhost-3000-2022-12-07-18_24_46](https://user-images.githubusercontent.com/114661364/206185548-804354e5-315d-46a5-90a3-ab1c9d141679.png)
 ![screencapture-localhost-3000-2022-12-07-18_25_00](https://user-images.githubusercontent.com/114661364/206185574-b6e0566a-3658-4b0a-8ff3-bf9aeec33817.png)
 ![screencapture-localhost-3000-2022-12-07-18_25_43](https://user-images.githubusercontent.com/114661364/206185591-a42d37ea-f47f-4d53-8876-599ac5665b36.png)
